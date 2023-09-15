@@ -1,0 +1,17 @@
+dist/
+
+#> local
+Makefile
+devex.db
+.DS_Store
+.idea
+#<
+
+#> build
+devex
+main
+#<
+
+#> test
+.coverage
+#< test
